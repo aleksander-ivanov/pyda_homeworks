@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 pandas_basics/data/
+
+pandas_functions/data/
