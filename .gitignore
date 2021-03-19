@@ -131,3 +131,5 @@ dmypy.json
 pandas_basics/data/
 
 pandas_functions/data/
+
+pandas_advanced/data/
